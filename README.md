@@ -1,10 +1,12 @@
 # Homework-4
 Final homework for DAS 
+
 APIS се хостирани на
- https://dasapiinfo.azurewebsites.net
- http://dasapidata.azurewebsites.net/
- http://api1.azurewebsites.net/
- https://dashomework.azurewebsites.net/
+ - https://dasapiinfo.azurewebsites.net
+ - http://dasapidata.azurewebsites.net/
+ - http://api1.azurewebsites.net/
+ - https://dashomework.azurewebsites.net/
+
 За правилно и целосно фунцкионирање на веб апликацијата треба:
 - Да се инсталираат сите зависности. 
 - за правилно функционирање на data_visualization и analyze_stock views, треба да бидат поставени коректно get requests на коректните urls и порти кон django rest framework apis.
